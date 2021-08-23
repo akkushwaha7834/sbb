@@ -1,0 +1,265 @@
+
+/*Media Query for Mobile */
+@media (min-width: 320px) and (max-width: 480px){
+	.olympiad_toolkit_single_column{
+		width: 100%!important;
+		padding: 15px;
+		margin: 10px 0px;
+	}
+	.footer_mobile_section_content{
+		text-align: center;
+	}
+	.footer_top_section,.footer_bottom_section{
+		display: none;
+	}
+	.sbb_app_play_store_heading{
+		font-size: 20px;
+		margin-bottom: 0;
+	}
+	.olympiad_toolkit_contains_para{
+		font-size: 18px;
+	}
+	.olympiad_toolkit_approach_section{
+		padding: 50px 30px 100px;
+	}
+	.customer_says{
+		padding: 50px 30px 100px;
+	}
+	.blogs_and_news_section{
+		padding: 50px 30px 100px;
+	}
+	.sbb_app_google_section{
+		padding: 50px 30px 100px;
+	}
+	#sbb_app_google_section{
+		width: 50%;
+	}
+	.slick-dots{
+		bottom: -60px;
+	}
+	.how_it_works_section {
+	    padding: 50px 30px 80px;
+	}
+	.olympiad_toolkit_approach{
+		padding: 20px;
+	}
+	.olympiad_toolkit_section{
+		padding: 50px 30px 80px;
+	}
+	.try_free_olympiad_button{
+		padding: 10px;
+		width: 95%;
+		text-align: center;
+	}
+	.buttons_login_and_signup .sign_up_button{
+		margin-left: 5px;
+	}
+	.buttons_login_and_signup .sign_in_button{
+		margin-left: 0!important;
+	}
+	.how_it_works_section_ul{
+		padding-left: 0px;
+	}
+	.try_free_olympiad_button a{
+		font-size: 13px;
+		font-weight: 500;
+	}
+	.read_more_blog_button{
+		padding: 10px;
+		width: 95%;
+		text-align: center;
+	}
+	.read_more_blog_button a{
+		font-size: 13px;
+		font-weight: 500;
+	}
+	.olympiad_toolkit_single_column img{
+		display: none;
+	}
+	.olympiad_toolkit_single_column ul{
+		padding-left: 15px;
+	}
+	.olympiad_toolkit_single_column ul li{
+		list-style: none;
+		font-size: 13px;
+	}
+	.olympiad_toolkit_heading{
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+	.reasoning_maths_sentence{
+		font-size: 13px;
+	}
+	#olympiad_toolkit_contains_section_button_desk{
+		display:none;
+	}
+	#olympiad_toolkit_heading_app{
+		padding: 0;
+		width: 50%;
+	}
+	#olympiad_toolkit_heading_app .olympiad_toolkit_heading_app{
+		font-size: 24px;
+		margin-bottom: 20px;
+		text-align: left;
+		width: 100%;
+		/*padding: 30px;*/
+	}
+	.olympiad_toolkit_objectives{
+		padding: 0;
+	}
+	
+	.olympiad_toolkit_objectives_section,.olympiad_toolkit_contains_section,.olympiad_toolkit_sbb_app_section{
+		padding: 50px 30px 80px;
+		margin-top: -50px;
+		background: #fff;
+	}
+	.olympiad_toolkit_contains_para_section{
+		padding: 0;
+	}
+	.start_free_trail,.start_free_trail_submit{
+		width: 100%;
+	}
+	.channel_partner_section_desktop{
+		display: none;
+	}
+	.col-xs-4.channel_partner_logo_mobile{
+		width: 33%;
+	}
+	.col-xs-4.channel_partner_logo_mobile img{
+		width: 100%;
+	}
+	.channel_partner_heading{
+		font-size: 24px;
+		margin-bottom: 20px;
+		color: #24346D;
+		font-weight: 600;
+	}
+	.channel_partner_section_mobile{
+		padding: 30px;
+	    background: #DAE9F4;
+	    border-radius: 50px 50px 0px 0px;
+	}
+	.channel_partner_subheading{
+		text-align: left;
+		font-size: 13px;
+	}
+	.how_it_works_section{
+		margin-top: -50px;
+	}
+	.banner_image_center{
+		width: 50%;
+    	display: flex;
+    	margin: 0 auto;
+	}
+	.banner_text_center{
+		text-align: center;
+	}
+	.banner_section{
+		padding: 10% 0 100px;
+	}
+	.how_it_works_section_right ul li {
+	    color: #24346d;
+	    font-weight: 600;
+	    line-height: 20px;
+	    font-size: 16px;
+	    background: url(../images/tick_new.png) no-repeat;
+	    list-style: none;
+	    padding: 0 0 0px 30px;
+	    margin: 0 0 37px;
+	}
+	.how_it_works_section .buttons_login_and_signup .sign_in_button{
+		padding: 8px 20px;
+		margin-left: 20px;
+	}
+	.how_it_works_section .buttons_login_and_signup .sign_up_button{
+		padding: 20px 20px;
+	}
+	.buttons_login_and_signup{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+	.olympiad_toolkit_contains_section .buttons_login_and_signup .sign_up_button{
+		padding: 18px 20px;
+		margin-left: 20px;
+	}
+	.olympiad_toolkit_contains_section .buttons_login_and_signup .sign_in_button{
+		padding: 8px 20px;
+		margin-left: 0px;
+	}
+	.olympiad_toolkit_objectives_section .buttons_login_and_signup .sign_up_button{
+		padding: 18px 20px;
+		margin-left: 20px;
+	}
+	.olympiad_toolkit_objectives_section .buttons_login_and_signup .sign_in_button{
+		padding: 8px 20px;
+		margin-left: 0px;
+	}
+	.olympiad_toolkit_objectives_section .buttons_login_and_signup{
+		margin-top: 0px;
+		margin-left: 0px;
+	}
+}
+
+/*Media Query for Mobile */
+@media (min-width: 481px) and (max-width: 767px){
+	.olympiad_toolkit_single_column{
+		width: 100%!important;
+	}
+	#olympiad_toolkit_contains_section_button_desk{
+		display:none;
+	}
+	.channel_partner_section_desktop{
+		display: none;
+	}
+	.olympiad_toolkit_single_column img{
+		display: none;
+	}
+	.try_free_olympiad_button{
+		padding: 10px;
+		width: 80%;
+	}
+	.read_more_blog_button{
+		padding: 10px;
+		width: 80%;
+	}
+	.footer_top_section,.footer_bottom_section{
+		display: none;
+	}
+	.footer_mobile_section_content{
+		text-align: center;
+	}
+}
+
+/*Media Query for Tablet */
+@media (min-width: 768px) and (max-width: 1023px){
+	.olympiad_toolkit_single_column{
+		width: 47%;
+	}
+	.olympiad_toolkit_section .olympiad_toolkit_approach{
+		width: 47%;
+	}
+	.footer_call_button a, .footer_mail a{
+		font-size: 17px;
+	}
+}
+
+/*Media Query for Laptop */
+@media (min-width: 1024px) and (max-width: 1440px){
+	.olympiad_toolkit_approach{
+		width: 23%;
+	}
+}
+@media(min-width: 768px){
+	.channel_partner_section_mobile{
+		display: none;
+	}
+	.footer_mobile_start,.mobile_footer_card_image{
+		display: none;
+	}
+}
+@media(min-width: 1441px){
+	.olympiad_toolkit_approach{
+		width: 23%;
+		padding: 50px 20px;
+	}
+}
